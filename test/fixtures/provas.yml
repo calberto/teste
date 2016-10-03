@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  ano: MyString
+  orgao_id: 1
+  concurso_id: 1
+  disciplina_id: 1
+  processada: 1
+  questoes_count: 1
+  processada_em: 2016-09-26
+
+two:
+  nome: MyString
+  ano: MyString
+  orgao_id: 1
+  concurso_id: 1
+  disciplina_id: 1
+  processada: 1
+  questoes_count: 1
+  processada_em: 2016-09-26

@@ -1,0 +1,6 @@
+class Questao < ActiveRecord::Base
+  belongs_to :prova
+  belongs_to :disciplina
+  validates_presence_of :enunciado, :message => "- deve ser informado"
+  validates_presence_of :gabarito, :message => "- deve ser informado"
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  enunciado: MyText
+  prova_id: 1
+  disciplina_id: 1
+  gabarito: MyString
+  anulada: 1
+  texto_id: 1
+  quantidade_comentarios: 1
+
+two:
+  enunciado: MyText
+  prova_id: 1
+  disciplina_id: 1
+  gabarito: MyString
+  anulada: 1
+  texto_id: 1
+  quantidade_comentarios: 1

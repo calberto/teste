@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Todas Disciplinas</title>
+</head>
+<body>
+  <h1>Disciplinas</h1>
+  <ul>
+   <% for disciplina in @disciplinas %>
+    <li> <a href="/disciplinas/<%=disciplina.id%>"><%= disciplina.nome %></a></li>
+    <li><%= disciplina.nome_url %></li>
+    <li><%= disciplina.provas_count %></li>
+    <li><%= disciplina.questoes_count %></li>
+    <li><%= disciplina.hit %></li>
+  </ul>
+   <% end %>
+ </body>
+</html>
+

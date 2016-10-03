@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  sigla: MyString
+  nome_url: MyString
+  url: MyString
+  ano: MyString
+  periodo_inscricao_inicio: 2016-09-26
+  periodo_inscricao_fim: 2016-09-26
+  data_prova: 2016-09-26
+  remuneracao: 1.5
+  cargo: MyString
+  idade: MyString
+  taxa_inscricao: 1.5
+  situacao_id: 1
+  orgao_id: 1
+  vagas: 1
+  salario: 1.5
+  scribel: MyString
+  escolaridade_id: 1
+  aberto_em: 2016-09-26
+  local: MyText
+  prova_count: 1
+
+two:
+  nome: MyString
+  descricao: MyText
+  sigla: MyString
+  nome_url: MyString
+  url: MyString
+  ano: MyString
+  periodo_inscricao_inicio: 2016-09-26
+  periodo_inscricao_fim: 2016-09-26
+  data_prova: 2016-09-26
+  remuneracao: 1.5
+  cargo: MyString
+  idade: MyString
+  taxa_inscricao: 1.5
+  situacao_id: 1
+  orgao_id: 1
+  vagas: 1
+  salario: 1.5
+  scribel: MyString
+  escolaridade_id: 1
+  aberto_em: 2016-09-26
+  local: MyText
+  prova_count: 1

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  nome_url: MyString
+  provas_count: 1
+  questoes_count: 1
+  hit: 1
+
+two:
+  nome: MyString
+  nome_url: MyString
+  provas_count: 1
+  questoes_count: 1
+  hit: 1
